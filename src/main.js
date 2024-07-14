@@ -1,8 +1,7 @@
-let b=2
+let b = 2;
 
-let a=3
+let a = 3;
 
-        function foo(    bet) {
-                    return bet*2
-         }
-
+function foo(bet) {
+	return bet * 2;
+}
